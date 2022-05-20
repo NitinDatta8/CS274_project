@@ -1,6 +1,6 @@
 # CS274_project
 This repository contains the code for CS274 project titled "Comparision of community detection algorithms". 
-Few of the datasets cannot be uploaded here so they can be found at the given link. 
+Few of the datasets cannot be uploaded here so they can be found at the given link https://www.kaggle.com/datasets/nitindatta/cs274-datasets
 
 To run the KEFRiN code: 
 1. Navigate to KEFRiN directory. 
